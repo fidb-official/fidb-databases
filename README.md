@@ -4,6 +4,11 @@
 
 Example databases for [FiDB](https://github.com/xieyuheng/fidb).
 
+## Resources
+
+- https://www.kaggle.com
+- https://datasetsearch.research.google.com
+
 ## Contributions
 
 To make a contribution, fork this project and create a pull request.
