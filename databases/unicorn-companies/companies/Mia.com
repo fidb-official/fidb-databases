@@ -1,0 +1,1 @@
+{"Company":"Mia.com","Valuation ($B)":"$1","Date Joined":"9/8/2015","Country":"China","City":"Beijing","Industry":"E-commerce & direct-to-consumer","Select Investors":"Sequoia Capital China, ZhenFund, K2 Ventures","@id":"companies/Mia.com","@revision":"eecc703bc208389db23e62fb6eac4ce0","@createdAt":1675936002545,"@updatedAt":1675936002545}
