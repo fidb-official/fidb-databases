@@ -1,0 +1,1 @@
+{"Company":"Blockchain.com","Valuation ($B)":"$14","Date Joined":"2/17/2021","Country":"United Kingdom","City":"London","Industry":"Fintech","Select Investors":"Lightspeed Venture Partners, Google Ventures, Lakestar","@id":"unicorn-companies/Blockchain.com","@revision":"d7bb7a8884dbae0d3dbb5c3eeed286cc","@createdAt":1675936002541,"@updatedAt":1675936002541}

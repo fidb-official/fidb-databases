@@ -1,1 +1,0 @@
-{"Company":"candy.com","Valuation ($B)":"$1.5","Date Joined":"10/21/2021","Country":"United States","City":"New York","Industry":"Fintech","Select Investors":"Insight Partners, Softbank Group, Connect Ventures","@id":"companies/candy.com","@revision":"087a1437ad66e48c82d87958dec4366d","@createdAt":1675936002543,"@updatedAt":1675936002543}

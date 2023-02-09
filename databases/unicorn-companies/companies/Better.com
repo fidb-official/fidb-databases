@@ -1,1 +1,0 @@
-{"Company":"Better.com","Valuation ($B)":"$6","Date Joined":"11/10/2020","Country":"United States","City":"New York","Industry":"Fintech","Select Investors":"Pine Brook, American Express Ventures, Kleiner Perkins Caufield & Byers","@id":"companies/Better.com","@revision":"17d234ef3d937a1d543b06eea7bf9bba","@createdAt":1675936002541,"@updatedAt":1675936002541}

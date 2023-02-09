@@ -1,1 +1,0 @@
-{"Company":"Pilot.com","Valuation ($B)":"$1.2","Date Joined":"3/26/2021","Country":"United States","City":"San Francisco","Industry":"Fintech","Select Investors":"Index Ventures, Sequoia Capital, Bezos Expeditions","@id":"companies/Pilot.com","@revision":"04418f93a7cdc0f1db1f1f936926ab4d","@createdAt":1675936002544,"@updatedAt":1675936002544}
