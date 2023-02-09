@@ -2,7 +2,7 @@
 
 [ [WEBWITE](https://fidb.dev) ]
 
-Example databases for [FiDB](https://github.com/xieyuheng/fidb).
+Example databases for [FiDB](https://github.com/fidb-official/fidb).
 
 ## Resources
 
