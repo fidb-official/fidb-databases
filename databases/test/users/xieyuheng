@@ -3,6 +3,7 @@
   "@revision": "d774140b-1812-4203-9948-f60d647324a8",
   "username": "xieyuheng",
   "age": 400,
+  "good": true,
   "tasks": [
     {
       "id": 2,
