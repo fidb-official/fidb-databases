@@ -1,5 +1,5 @@
 {
-  "@id": "users/cicada",
+  "@path": "users/cicada",
   "@revision": "85f83ff9-56ed-4462-b028-af3f91caf450",
   "username": "cicada",
   "tasks": [
