@@ -1,5 +1,5 @@
 {
-  "@path": "users/cicada",
+  "@path": "examples/values/1",
   "@revision": "5d551a1ca96496acd2c68eefcd294e88",
   "good": false,
   "object": { "a": 1, "b": 2, "c": 3 },
