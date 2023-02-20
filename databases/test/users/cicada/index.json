@@ -1,1 +1,1 @@
-{"@path":"users/cicada","@revision":"5d551a1ca96496acd2c68eefcd294e88","username":"cicada","good":false,"object": {"a": 1, "b": 2, "c": 3}, "array": [1, 2, 3], "tasks":[{"id":9,"title":"SICP","trace":[]},{"id":1,"title":"Essentials-of-Compilation","trace":[]}],"@createdAt":1675944845888,"@updatedAt":1676069344020}
+{"@path":"users/cicada","@revision":"a4319e5d395c9d06c067e90e78b040e2","username":"cickaasdasdsd","tasks":[{"id":9,"title":"SICP","trace":[]},{"id":1,"title":"Essentials-of-Compilation","trace":[]}],"@createdAt":1675944845888,"@updatedAt":1676294455719}
