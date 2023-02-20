@@ -1,7 +1,7 @@
 {
   "@path": "users/fidb",
   "@revision": "5c9d813a-ef2b-4137-a115-bbe534eb4137",
-  "username": "fidb",
+  "name": "fidb",
   "tasks": [],
   "@createdAt": 1675944845888,
   "@updatedAt": 1675944845888
