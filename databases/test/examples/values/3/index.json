@@ -1,0 +1,9 @@
+{
+  "@path": "users/cicada",
+  "@revision": "5d551a1ca96496acd2c68eefcd294e88",
+  "good": false,
+  "object": { "x": 1, "y": 2, "z": 3 },
+  "array": [4, 5, 6],
+  "@createdAt": 1675944845888,
+  "@updatedAt": 1676069344020
+}
