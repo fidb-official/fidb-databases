@@ -3,6 +3,9 @@
     "build": "",
     "serve": "npx fidb serve databases/test"
   },
+  "engines": {
+    "node": ">=19"
+  },
   "dependencies": {
     "fidb": "^0.0.13"
   }
