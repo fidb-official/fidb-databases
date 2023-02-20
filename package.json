@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "build": "",
+    "serve": "npx fidb serve databases/test"
+  },
+  "dependencies": {
+    "fidb": "^0.0.13"
+  }
+}
