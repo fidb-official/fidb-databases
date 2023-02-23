@@ -1,4 +1,9 @@
 {
   "name": "fidb/test",
-  "description": "FiDB testing database."
+  "description": "FiDB testing database.",
+  "authDirectories": {
+    "users": {
+      "permissions": ["create", "read", "update", "delete"]
+    }
+  }
 }

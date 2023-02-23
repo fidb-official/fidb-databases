@@ -1,4 +1,9 @@
 {
   "name": "pomodoro",
-  "description": "Example database about Pomodoro."
+  "description": "Example database about Pomodoro.",
+  "authDirectories": {
+    "users": {
+      "permissions": ["create", "read", "update", "delete"]
+    }
+  }
 }
