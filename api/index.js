@@ -4,10 +4,11 @@ import { resolve } from "node:path"
 
 const PREFIX = resolve(__filename, "../databases/")
 
-const PATH = "test"
+const FILE = "test"
 
 export default async function (request, response) {
-  const db = await createDatabase({ path: resolve(PATH) })
+  const path = resolve(PREFIX, FILE)
+  const db = await createDatabase({ path })
   const listen = createRequestListener({ db })
   await listen(request, response)
 }
