@@ -9,8 +9,5 @@
   },
   "dependencies": {
     "fidb": "^0.0.17"
-  },
-  "devDependencies": {
-    "@vercel/node": "^2.9.7"
   }
 }
