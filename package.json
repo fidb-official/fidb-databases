@@ -2,12 +2,12 @@
   "private": true,
   "scripts": {
     "build": "",
-    "serve": "npx fidb serve databases/test"
+    "serve": "npx fidb serve-database databases/test"
   },
   "engines": {
     "node": ">=18"
   },
   "dependencies": {
-    "fidb": "^0.0.19"
+    "fidb": "^0.0.20"
   }
 }
