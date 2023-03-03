@@ -5,7 +5,7 @@
     "serve": "npx fidb serve-database databases/test"
   },
   "engines": {
-    "node": ">=18"
+    "node": ">=19"
   },
   "dependencies": {
     "fidb": "^0.0.20"
