@@ -1,0 +1,9 @@
+{
+  "hash": "$2b$10$WyHzAg6ZvOH/DEmoEVjj8.ssaaYX0exvaoefkBRN4DjdCpej6Q9Im",
+  "memo": "SignUp",
+  "permissions": ["create", "read", "update", "delete"],
+  "@path": "users/xieyuheng/passwords/ae427804398e08f889d0",
+  "@revision": "1b0d4dc0b6e68853aa0005b03c059a47",
+  "@createdAt": 1677377822048,
+  "@updatedAt": 1677377822048
+}
