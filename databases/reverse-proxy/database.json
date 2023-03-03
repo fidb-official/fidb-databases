@@ -1,0 +1,9 @@
+{
+  "name": "fidb/reverse-proxy",
+  "description": "Example FiDB reverse proxy database.",
+  "authDirectories": {
+    "users": {
+      "permissions": ["create", "read", "update", "delete"]
+    }
+  }
+}
