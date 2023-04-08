@@ -1,1 +1,16 @@
-{"@path":"users/xieyuheng","@revision":"3bdab0a2674a43f6914d646c60a6c775","name":"ng","tasks":[{"id":11,"title":"Design Mimor","trace":[1659920124149,1659921632305,1659954068198]},{"id":0,"title":"Read HoTT","trace":[]},{"id":1,"title":"Read \"Causality\"","trace":[]}],"@createdAt":1675944845888,"@updatedAt":1676294011052}
+{
+  "@path": "users/xieyuheng",
+  "@revision": "3bdab0a2674a43f6914d646c60a6c775",
+  "name": "xieyuheng",
+  "tasks": [
+    {
+      "id": 11,
+      "title": "Design Mimor",
+      "trace": [1659920124149, 1659921632305, 1659954068198]
+    },
+    { "id": 0, "title": "Read HoTT", "trace": [] },
+    { "id": 1, "title": "Read \"Causality\"", "trace": [] }
+  ],
+  "@createdAt": 1675944845888,
+  "@updatedAt": 1676294011052
+}

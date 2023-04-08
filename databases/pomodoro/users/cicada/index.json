@@ -1,1 +1,11 @@
-{"@path":"users/cicada","@revision":"a4319e5d395c9d06c067e90e78b040e2","name":"cickaasdasdsd","tasks":[{"id":9,"title":"SICP","trace":[]},{"id":1,"title":"Essentials-of-Compilation","trace":[]}],"@createdAt":1675944845888,"@updatedAt":1676294455719}
+{
+  "@path": "users/cicada",
+  "@revision": "a4319e5d395c9d06c067e90e78b040e2",
+  "name": "cicada",
+  "tasks": [
+    { "id": 9, "title": "SICP", "trace": [] },
+    { "id": 1, "title": "Essentials-of-Compilation", "trace": [] }
+  ],
+  "@createdAt": 1675944845888,
+  "@updatedAt": 1676294455719
+}
