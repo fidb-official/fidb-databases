@@ -1,6 +1,6 @@
 # FiDB Databases
 
-[ [WEBWITE](https://fidb.dev) ]
+[ [WEBWITE](https://fidb.app) ]
 
 Example databases for [FiDB](https://github.com/fidb-official/fidb).
 
